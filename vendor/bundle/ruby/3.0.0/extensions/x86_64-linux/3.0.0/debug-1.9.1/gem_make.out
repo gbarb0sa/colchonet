@@ -1,0 +1,16 @@
+current directory: /home/gugu/estudo/colchonet/vendor/bundle/ruby/3.0.0/gems/debug-1.9.1/ext/debug
+/home/gugu/.rvm/rubies/ruby-3.0.2/bin/ruby -I /home/gugu/.rvm/rubies/ruby-3.0.2/lib/ruby/3.0.0 -r ./siteconf20240126-56120-1dkmvp.rb extconf.rb
+creating Makefile
+
+current directory: /home/gugu/estudo/colchonet/vendor/bundle/ruby/3.0.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= clean
+
+current directory: /home/gugu/estudo/colchonet/vendor/bundle/ruby/3.0.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\=
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/gugu/estudo/colchonet/vendor/bundle/ruby/3.0.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20240126-56120-5q3yl7/debug

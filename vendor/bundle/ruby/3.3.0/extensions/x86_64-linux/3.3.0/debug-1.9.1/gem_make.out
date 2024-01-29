@@ -1,0 +1,19 @@
+current directory: /home/gugu/estudo/colchonet/vendor/bundle/ruby/3.3.0/gems/debug-1.9.1/ext/debug
+/home/gugu/.rvm/rubies/ruby-3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/gugu/estudo/colchonet/vendor/bundle/ruby/3.3.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240129-157279-56rf83 sitelibdir\=./.gem.20240129-157279-56rf83 clean
+
+current directory: /home/gugu/estudo/colchonet/vendor/bundle/ruby/3.3.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240129-157279-56rf83 sitelibdir\=./.gem.20240129-157279-56rf83
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/gugu/estudo/colchonet/vendor/bundle/ruby/3.3.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240129-157279-56rf83 sitelibdir\=./.gem.20240129-157279-56rf83 install
+/usr/bin/install -m 0755 debug.so ./.gem.20240129-157279-56rf83/debug
+
+current directory: /home/gugu/estudo/colchonet/vendor/bundle/ruby/3.3.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240129-157279-56rf83 sitelibdir\=./.gem.20240129-157279-56rf83 clean

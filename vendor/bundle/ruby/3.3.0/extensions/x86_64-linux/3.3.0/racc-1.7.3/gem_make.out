@@ -1,0 +1,18 @@
+current directory: /home/gugu/estudo/colchonet/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+/home/gugu/.rvm/rubies/ruby-3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/gugu/estudo/colchonet/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240129-157279-u5zg9f sitelibdir\=./.gem.20240129-157279-u5zg9f clean
+
+current directory: /home/gugu/estudo/colchonet/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240129-157279-u5zg9f sitelibdir\=./.gem.20240129-157279-u5zg9f
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/gugu/estudo/colchonet/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240129-157279-u5zg9f sitelibdir\=./.gem.20240129-157279-u5zg9f install
+/usr/bin/install -m 0755 cparse.so ./.gem.20240129-157279-u5zg9f/racc
+
+current directory: /home/gugu/estudo/colchonet/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240129-157279-u5zg9f sitelibdir\=./.gem.20240129-157279-u5zg9f clean
